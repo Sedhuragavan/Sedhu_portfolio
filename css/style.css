@@ -391,6 +391,7 @@ header.sticky{
 	border-radius: 12px;
 	/* background-image: url(../img/intro.png); */
 	background-size: cover;
+	padding-top: 100px;
 }
 .center h3{
 	font-size: 30px;
